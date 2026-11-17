@@ -43,4 +43,4 @@ Key design decisions:
 
 ## 📫 Connect
 
-[LinkedIn](LINK_TO_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/daria-vesela/)
