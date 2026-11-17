@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dash 👋
 
-<!--
-**DariaVesela/DariaVesela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer** building reliable batch and streaming pipelines: from messy source data to tested, modeled tables that people can trust.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python · SQL
+**Transformation & Modeling:** dbt · PySpark
+**Streaming:** Kafka
+**Cloud:** AWS · GCP
+**Warehousing:** BigQuery · DuckDB
+**Orchestration & CI/CD:** GitHub Actions · Kestra · Docker
+**Tooling:** uv · ruff · pytest
+
+## 🚀 Projects
+
+**[Congressional Bill Analytics](LINK_TO_REPO)**: an end-to-end ELT pipeline that ingests official U.S. Congressional bill data daily, models it into a dbt star schema on DuckDB, and serves a Streamlit dashboard showing how far bills get through Congress and where they stall. Includes data quality tests by dimension, CI, and a fully documented [decisions log](LINK_TO_NOTION).
+
+**🔨 Currently building: Shopper Behaviour Streaming Pipeline**, a real-time pipeline for processing shopper behaviour events.
+
+## 🤖 Exploring
+
+**Agentic development:** using AI as part of my engineering workflow, including building reusable skills, orchestrating multiple agents across tasks, and finding where AI speeds up data engineering work without compromising correctness.
+
+## 📫 Connect
+
+[LinkedIn](LINK_TO_LINKEDIN)
